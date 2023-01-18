@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_title">FEATURED</string>
+    <string name="story_subtitle">By %1$s - %2$s</string>
+    <string name="video_subtitle">%1$s views</string>
+</resources>
